@@ -1,6 +1,5 @@
 import * as THREE from 'three'; // Using a package manager
 import './style.css';
-import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 
 // Setup
